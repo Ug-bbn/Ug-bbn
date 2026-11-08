@@ -4,7 +4,7 @@
 
 J'automatise les traitements de données que vos équipes font encore à la main sur Excel, avec du code Python **testé et documenté** que vous pouvez reprendre sans moi.
 
-📍 Paris · 🎓 Master MIAGE, Université Paris Dauphine-PSL · 💼 Freelance à temps partiel (1-2 jours par semaine), en télétravail ou à Paris
+Étudiant en Master MIAGE à Paris Dauphine-PSL · disponible en freelance 2 à 3 jours/semaine, en télétravail ou à Paris.
 
 ---
 
@@ -42,4 +42,4 @@ Tous sont construits sur des données publiques, testés automatiquement, et doc
 
 ### 🇬🇧 In English
 
-Python data scientist. I turn messy Excel and CSV files into clean, automated and tested pipelines, then make them usable through dashboards, reports or models. I worked two years with French government ministries (pension funds data, actuarial calculations, public investment analysis). I am a Master's student in Information Systems at Paris Dauphine-PSL, available part-time and remotely (CET timezone).
+Python data scientist. I turn messy Excel and CSV files into clean, automated and tested pipelines, then make them usable through dashboards, reports or models. I worked two years with French government ministries (pension funds data, actuarial calculations, public investment analysis). I am a Master's student in Information Systems at Paris Dauphine-PSL, available as a freelancer 2 to 3 days a week, remotely or in Paris (CET timezone).
